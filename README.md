@@ -1,4 +1,4 @@
-# Military-Aircraft-Detection-with-YOLOv8
+# Military Aircraft Detection with YOLOv8
 
 <img src="https://github.com/em-1001/Military-Aircraft-Detection-with-YOLOv8/blob/master/aircraft%20image/Su57.png"><img src="https://github.com/em-1001/Military-Aircraft-Detection-with-YOLOv8/blob/master/aircraft%20image/F117-1.png">
 

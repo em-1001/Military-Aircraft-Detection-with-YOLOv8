@@ -10,10 +10,10 @@
 
 <img src="https://github.com/em-1001/Military-Aircraft-Detection-with-YOLOv8/blob/master/aircraft%20image/B52.png"><img src="https://github.com/em-1001/Military-Aircraft-Detection-with-YOLOv8/blob/master/aircraft%20image/C130-2.png">
 
-### False Positive(wrong class)Permalink
-**F22, F22, F35, F35 -> F35, F35, F35, F35**  
-**F14, F18, Rafale, F15 -> F14, F18, F15, F16**  
-**Su57 -> F22**  
+### False Positive(wrong class)
+**F22, F22, F35, F35 &rarr; F35, F35, F35, F35**  
+**F14, F18, Rafale, F15 &rarr; F14, F18, F15, F16**  
+**Su57 &rarr; F22**  
 
 ### NMS(Non-maximum Suppression)
 |Detection|YOLOv8n|YOLOv8s|YOLOv8m|YOLOv8l|YOLOv8x|

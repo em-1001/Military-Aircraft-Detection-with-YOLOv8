@@ -25,6 +25,9 @@
 # How to train 
 
 
+## More About 
+[em-1001.github.io Military Aircraft Detection with YOLOv8](https://em-1001.github.io/computer%20vision/YOLOv8/)
+
 # Reference 
 ## Web Link 
 One-stage object detection : https://machinethink.net/blog/object-detection/  

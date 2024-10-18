@@ -23,17 +23,25 @@
 |v8 + SIoU + CA|?|?|?|?|?|
 
 # How to train 
-1. Install Requirements
-`$ pip install -r requirements.txt`
+1. **Install Requirements**  
+```sh
+$ pip install -r requirements.txt
+```   
 
-2. Download dataset
-`$ curl -L "https://universe.roboflow.com/ds/m5xfYLK7xS?key=bNe2NdTwqq" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip`
+2. **Download dataset**  
+```sh
+$ curl -L "https://universe.roboflow.com/ds/m5xfYLK7xS?key=bNe2NdTwqq" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip`  
+```
 
-3. Data Preprocess
-`$ python3 preprocessor.py`
+3. **Data Preprocess**  
+```sh
+$ python3 preprocessor.py
+```
 
-4. Set config.py values and Train
-`$ python3 train.py`
+4. **Set config.py values and Train**  
+```sh
+$ python3 train.py
+``` 
 
 ## More About 
 [em-1001.github.io Military Aircraft Detection with YOLOv8](https://em-1001.github.io/computer%20vision/YOLOv8/)

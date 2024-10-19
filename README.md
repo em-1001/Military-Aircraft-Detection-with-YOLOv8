@@ -7,7 +7,6 @@
 ### False Positive(wrong class)
 **F22, F22, F35, F35 &rarr; F35, F35, F35, F35**  
 **F14, F18, Rafale, F15 &rarr; F14, F18, F15, F16**  
-**Su57 &rarr; F22**  
 
 ### NMS(Non-maximum Suppression)
 |Detection|YOLOv8n|YOLOv8s|YOLOv8m|YOLOv8l|YOLOv8x|
